@@ -1,0 +1,5 @@
+.idea/
+*.yaml
+main.py
+test_helper.py
+requirements.txt
